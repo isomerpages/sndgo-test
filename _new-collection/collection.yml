@@ -1,0 +1,7 @@
+collections:
+  new-collection:
+    output: true
+    order:
+      - new-page/.keep
+      - new-page/new-subpage.md
+      - new-page/new-subpage2.md
