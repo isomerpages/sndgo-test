@@ -8,3 +8,5 @@ links:
     collection: new-collection
   - title: Archives
     resource_room: true
+  - title: Fall Collection
+    collection: fall-collection
