@@ -3,18 +3,18 @@ url: ""
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#8b572a"
-  secondary-color: "#4372d6"
+  secondary-color: "#f8e71c"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#7ed321"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#50e3c2"
     - title: media-color-four
-      color: "#00838f"
+      color: "#b8e986"
     - title: media-color-five
-      color: "#00838f"
+      color: "#bd10e0"
 resources_name: media-room
 description: An Isomer site of the Singapore Government
 permalink: none
