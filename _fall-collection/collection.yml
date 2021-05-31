@@ -1,4 +1,5 @@
 collections:
   fall-collection:
     output: true
-    order: []
+    order:
+      - fall-2021.md
