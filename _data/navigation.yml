@@ -4,8 +4,6 @@ links:
     url: /contact-us/
   - title: About
     url: /about/
-  - title: SHOP
-    collection: new-collection
   - title: Archives
     resource_room: true
   - title: Fall Collection
