@@ -1,0 +1,4 @@
+collections:
+  fall-collection:
+    output: true
+    order: []
